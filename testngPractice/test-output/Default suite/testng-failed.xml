@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.OrangeHRM.AddEmployee">
+      <class name="com.GCreddy.NewTest1">
         <methods>
-          <include name="tearDown"/>
-          <include name="addemployeereg"/>
-          <include name="setup"/>
+          <include name="closeBrowser"/>
+          <include name="verifyyahoo"/>
+          <include name="launchBrowser"/>
         </methods>
-      </class> <!-- com.OrangeHRM.AddEmployee -->
+      </class> <!-- com.GCreddy.NewTest1 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

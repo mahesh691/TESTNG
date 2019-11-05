@@ -2,36 +2,44 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="25796" started-at="2019-09-26T16:49:47Z" finished-at="2019-09-26T16:50:13Z">
+  <suite name="Default suite" duration-ms="39" started-at="2019-11-04T09:34:32Z" finished-at="2019-11-04T09:34:33Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="25796" started-at="2019-09-26T16:49:47Z" finished-at="2019-09-26T16:50:13Z">
-      <class name="com.GCreddy.After_Before">
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.GCreddy.After_Before@604ed9f0]" name="launchBrowser" is-config="true" duration-ms="7823" started-at="2019-09-26T16:49:47Z" finished-at="2019-09-26T16:49:55Z">
+    <test name="Default test" duration-ms="39" started-at="2019-11-04T09:34:32Z" finished-at="2019-11-04T09:34:33Z">
+      <class name="com.Teestngp.test">
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.Teestngp.test@5c3bd550]" name="test3" is-config="true" duration-ms="15" started-at="2019-11-04T09:34:32Z" finished-at="2019-11-04T09:34:32Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- launchBrowser -->
-        <test-method status="PASS" signature="verifyTitle()[pri:1, instance:com.GCreddy.After_Before@604ed9f0]" name="verifyTitle" duration-ms="2372" started-at="2019-09-26T16:49:55Z" finished-at="2019-09-26T16:49:58Z">
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test5()[pri:1, instance:com.Teestngp.test@5c3bd550]" name="test5" duration-ms="15" started-at="2019-11-04T09:34:32Z" finished-at="2019-11-04T09:34:33Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyTitle -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.GCreddy.After_Before@604ed9f0]" name="closeBrowser" is-config="true" duration-ms="4196" started-at="2019-09-26T16:49:58Z" finished-at="2019-09-26T16:50:02Z">
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.Teestngp.test@5c3bd550]" name="test1" is-config="true" duration-ms="0" started-at="2019-11-04T09:34:32Z" finished-at="2019-11-04T09:34:32Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- closeBrowser -->
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.GCreddy.After_Before@604ed9f0]" name="launchBrowser" is-config="true" duration-ms="4451" started-at="2019-09-26T16:50:02Z" finished-at="2019-09-26T16:50:06Z">
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.Teestngp.test@5c3bd550]" name="test2" is-config="true" duration-ms="0" started-at="2019-11-04T09:34:33Z" finished-at="2019-11-04T09:34:33Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- launchBrowser -->
-        <test-method status="PASS" signature="verifygcrshop()[pri:2, instance:com.GCreddy.After_Before@604ed9f0]" name="verifygcrshop" duration-ms="3972" started-at="2019-09-26T16:50:06Z" finished-at="2019-09-26T16:50:10Z">
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:com.Teestngp.test@5c3bd550]" name="test4" is-config="true" duration-ms="0" started-at="2019-11-04T09:34:33Z" finished-at="2019-11-04T09:34:33Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifygcrshop -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.GCreddy.After_Before@604ed9f0]" name="closeBrowser" is-config="true" duration-ms="2935" started-at="2019-09-26T16:50:10Z" finished-at="2019-09-26T16:50:13Z">
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test6()[pri:2, instance:com.Teestngp.test@5c3bd550]" name="test6" duration-ms="0" started-at="2019-11-04T09:34:33Z" finished-at="2019-11-04T09:34:33Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- closeBrowser -->
-      </class> <!-- com.GCreddy.After_Before -->
+        </test-method> <!-- test6 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.Teestngp.test@5c3bd550]" name="test1" is-config="true" duration-ms="0" started-at="2019-11-04T09:34:33Z" finished-at="2019-11-04T09:34:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.Teestngp.test@5c3bd550]" name="test2" is-config="true" duration-ms="0" started-at="2019-11-04T09:34:33Z" finished-at="2019-11-04T09:34:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- com.Teestngp.test -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
